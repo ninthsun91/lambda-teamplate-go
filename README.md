@@ -1,0 +1,1 @@
+[🔗Building Lambda functions with Go](https://docs.aws.amazon.com/lambda/latest/dg/lambda-golang.html)
